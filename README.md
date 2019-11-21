@@ -44,3 +44,28 @@ background-image:url(sirpi-floral-leaf-pattern-wallpaper-metallic-glitter-heavy-
 </form>
 </header>
 </html>
+
+
+<html>
+<head>
+
+<title> <h1> Assignement 4 </h></title>
+<style> body {
+
+background-image:url(858748.jpg)
+
+}</body> 
+</style>
+</head>
+<body>
+
+<br> </br>	
+
+<table>
+<tr> <td> <h1><a href="i.html"><button> New </button></a></h1> </tr>
+<td> <a href="database.php"> <button>Search </button> </a> </td> </tr>
+
+</table>
+
+</body>
+</html>
