@@ -648,6 +648,7 @@ namespace SeleniumTests
                 }
             }
         }
+        }
     }
 }
 
